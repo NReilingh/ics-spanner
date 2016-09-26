@@ -159,7 +159,7 @@ sub span_ics {
 };
 
 sub usage {
-	print "Usages: ics-spanner.pl <filesize_in_Kb> <ICS_file(s)>\n";
+	print "Usage: ics-spanner.pl <filesize_in_Kb> <ICS_file(s)>\n";
 	exit 0;
 };
 
