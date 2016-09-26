@@ -1,0 +1,5 @@
+#!/bin/sh
+
+./caltester.pl test/zimbradownloads/Box\ Office-2016-09-25-210443.ics
+./caltester.pl
+
