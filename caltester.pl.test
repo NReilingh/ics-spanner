@@ -1,0 +1,5 @@
+#!/bin/sh
+
+./caltester.pl test/*
+./caltester.pl
+

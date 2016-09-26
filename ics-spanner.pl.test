@@ -1,0 +1,4 @@
+#!/bin/sh
+
+./ics-spanner.pl 1000 test/*
+
