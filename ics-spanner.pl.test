@@ -1,4 +1,4 @@
 #!/bin/sh
 
-./ics-spanner.pl 45 test/*
+./ics-spanner.pl 1000 test/*
 
